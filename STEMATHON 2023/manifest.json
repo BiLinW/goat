@@ -1,0 +1,18 @@
+{ 
+    "manifest_version" : 3, 
+    "name" : "goat fashion", 
+    "description" : "Sustainable shopping made cheaper and easier! Small businesses and thirfted alternatives are recommended to you while shopping.",
+    "icons" : {
+        "48" : "/images/bigclearicon.png"
+    },
+
+    "action": {
+        "default_icon": {             
+            "48" : "/images/bigclearicon.png" 
+        },
+        "default_title": "Click Me",   
+        "default_popup": "popup.html"  
+      },
+
+    "version" : "3.0"
+}
